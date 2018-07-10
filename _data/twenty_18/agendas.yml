@@ -1,0 +1,56 @@
+- time: 10:00 AM
+  info: "<b>Dr Daphne Ezer</b><br><i>Alan Turing Institute</i><br>Introductory Remarks<br>"
+
+- time: <b>Morning session 1</b>
+  info: "<h3>Planning experiments</h3>"
+
+- time: 10:15 AM
+  info: "<br><b>Dr Daphne Ezer</b><br><i>Alan Turing Institute</i><br>Introductory Remarks<br>"
+
+- time: 10:40 AM
+  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+
+- time: 11:05 AM
+  info: "<br>Coffee break<br>"
+
+- time: <b>Morning session 2</b>
+  info: "<h3>Conducting experiments</h3>"
+
+- time: 11:30 AM
+  info: "<br><b>Dr Daphne Ezer</b><br><i>Alan Turing Institute</i><br>Introductory Remarks<br>"
+
+- time: 11:55 AM
+  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+
+- time: 12:20 PM
+  info: "<br>Lunch<br>"
+
+- time: <b>Afternoon session 1</b>
+  info: "<h3>Analysing experiments</h3>"
+
+- time: 1:30 PM
+  info: "<br><b>Dr Daphne Ezer</b><br><i>Alan Turing Institute</i><br>Introductory Remarks<br>"
+
+- time: 1:55 PM
+  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+
+- time: 2:20 PM
+  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+
+- time: 2:35 PM
+  info: "<br>Coffee break<br>"
+
+- time: Afternoon session 2
+  info: "<h3>From theory to practice</h3>"
+
+- time: 3:00 PM
+  info: "Facilitated session! Woooo - KW add details here!"
+
+- time: 4:00 PM
+  info: "Feedback from facilitated discussion"
+
+- time: 4:20 PM
+  info: "Closing remarks"
+
+- time: 4:30 PM
+  info: "<h3>Drinks reception<h3>"

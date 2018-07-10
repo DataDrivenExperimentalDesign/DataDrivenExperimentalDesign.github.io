@@ -7,8 +7,77 @@
   topic: Topic
   description: More Info
 
+### The following fields are necessary for the speaker bios
+# title: The name - including honorific - of the speaker
+# name: A shorthand link to their pop out profile.
+#       Recommend using first and last name together in CamelCase
+#       with no spaces.
+# subtitle: Affiliation
+# img: Picture of speaker
+#      Should be saved in css/2018_style/speaker/
+# thumbnail: Picture of speaker (but smaller??)
+#            Also saved in css/2018_style/speaker/
+# alt: Alt text for image, suggest name of speaker
+# talktitle: Title of their talk
+# abstract: Abstract
+# bio: Short bio
+- title: Dr Kirstie Whitaker
+  name: KirstieWhitaker
+  subtitle: Alan Turing Institute
+  img: KirstieWhitaker_Square.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of Dr Kirstie Whitaker
+  talktitle: Facilitator for <i>From Theory to Practice</i> session
+  abstract: This is what Kirstie is going to talk about.
+  bio: Neuroscientist interested in adolescent brain development and Open Science advocate.
+
 - title: Name
-  name: Name-2
+  name: Name-3
+  subtitle: Position
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Name
+  name: Name-3
+  subtitle: Position
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Name
+  name: Name-3
+  subtitle: Position
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Name
+  name: Name-3
+  subtitle: Position
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Name
+  name: Name-3
+  subtitle: Position
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Name
+  name: Name-3
   subtitle: Position
   img: TBD.jpg
   thumbnail: TBD.jpg
