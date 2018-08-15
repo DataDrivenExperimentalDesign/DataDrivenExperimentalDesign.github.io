@@ -49,12 +49,12 @@ body {
 }
 
 p {
-    line-height: 1.75;
-	font-size: 110%;
+  line-height: 1.75;
+	font-size: 120%;
 }
 
 p.large {
-    font-size: 120%;
+    font-size: 140%;
 }
 
 a,
@@ -339,7 +339,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/css/2018_style/img/header-bg.jpg');
+    background-image: url('{{ site.baseurl }}/css/2018_style/img/london-eye-pink.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -477,9 +477,10 @@ section h3.section-subheading {
     padding-top: 25px;
     padding-bottom: 5px;
     max-width: 400px;
-    min-height: 100px;
+    min-height: 150px;
     text-align: center;
     background-color: #fff;
+    display: block;
 }
 
 #speakers .speakers-item .speakers-caption h4 {
@@ -498,6 +499,21 @@ section h3.section-subheading {
 
 #speakers * {
     z-index: 2;
+}
+
+
+#sponsors .speakers-item .speakers-caption h4 {
+    margin: 0;
+    text-transform: none;
+    min-height: 70px;
+    display: block;
+}
+
+#sponsors .speakers-item .speakers-caption p {
+    margin: 0;
+    text-transform: none;
+    min-height: 30px;
+    display: block;
 }
 
 @media(min-width:767px) {
@@ -920,4 +936,39 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
+}
+
+ul {
+  line-height: 1.5;
+  font-size: 120%;
+}
+
+ol {
+  line-height: 1.5;
+  font-size: 120%;
+}
+
+li:not(:last-child) {
+  margin: 0 0 10px 0;
+}
+
+.faqanswer {
+  color: black ;
+  list-style-type: none;
+}
+
+.blackp {
+    color: black
+}
+
+.blackli {
+    color: black
+}
+
+strong {
+    font-weight: bolder;
+}
+
+.green {
+    color: #{{ site.data.template.color.secondary-dark }}
 }
