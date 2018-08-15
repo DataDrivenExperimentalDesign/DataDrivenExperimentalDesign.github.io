@@ -1,8 +1,9 @@
 # Color settings (hex-codes without the leading hash-tag)
+# From https://coolors.co/eeb4b3-c179b9-683f61-a42cd6-a355c1
 color:
-  primary: ff69b4
-  secondary: 6ecf99
-  secondary-dark: 00283c
+  primary: A355C1 # deep lilac
+  secondary: 7C238C # maximum purple
+  secondary-dark: 000000 #black
   muted: 777
 
 # Font Families
