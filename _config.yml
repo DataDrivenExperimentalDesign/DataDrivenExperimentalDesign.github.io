@@ -10,7 +10,7 @@ facebook:
   app_id:
 
 #logo: "../css/2016_style/img/icon-large.png"
-logo: "../css/2018_style/img/logos/noun_people_group_1844354_cropped.png"
+logo: "../css/2018_style/img/logos/noun_Robot_960071_cropped_white.png"
 
 #google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
@@ -23,14 +23,10 @@ plugins:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: slack
-    url: https://stemgamechangers.slack.com/
   - title: twitter
-    url: https://twitter.com/stemgamechange
-  - title: facebook
-    url: https://www.facebook.com/STEMgamechangers/
+    url: https://twitter.com/search?f=tweets&q=%23TuringDSED
   - title: github
-    url: https://github.com/stemgamechangers/stemgamechangers.github.io
+    url: https://github.com/datascienceforexperimentaldesign/datascienceforexperimentaldesign.github.io
 
 # Build settings
 markdown: kramdown
