@@ -12,75 +12,63 @@
 # talktitle: Title of their talk
 # abstract: Abstract
 # bio: Short bio
-- title: Dr Kirstie Whitaker
-  name: KirstieWhitaker
-  subtitle: Alan Turing Institute
-  img: KirstieWhitaker_Square.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of Dr Kirstie Whitaker
-  talktitle: Facilitator for <i>From Theory to Practice</i> session
-  abstract: This is what Kirstie is going to talk about.
-  bio: Neuroscientist interested in adolescent brain development and Open Science advocate.
 
-- title: Name
-  name: Name-3
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- title: Dr Stephanie Biedermann
+  name: StephanieBiedermann
+  subtitle: University of Southampton
+  img: StephenieBiedermann.jpg
+  thumbnail: StephenieBiedermann.jpg
+  alt: Picture of Dr Stephanie Biedermann
+  talktitle: Optimal designs for experiments – why, how, and where are the bottlenecks?
+  abstract:
+  bio:
 
-- title: Name
-  name: Name-3
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- title: Dr Ozgur Akman
+  name: OzgurAkman
+  subtitle: University of Exeter
+  img: OzgurAkman.jpg
+  thumbnail: OzgurAkman.jpg
+  alt: Picture of Dr Ozgur Akman
+  talktitle: Reduced models of circadian systems
+  abstract:
+  bio:
 
-- title: Name
-  name: Name-3
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- title: Prof Ross D King
+  name: RossDKing
+  subtitle: University of Newcastle
+  img: RossDKing.jpg
+  thumbnail: RossDKing.jpg
+  alt: Picture of Prof Ross D King
+  talktitle: Reduced models of circadian systems
+  abstract: "A Robot Scientist is a physically implemented robotic system that applies techniques from artificial intelligence to execute cycles of automated scientific experimentation. A Robot Scientist can automatically execute cycles of hypothesis formation, selection of efficient experiments to discriminate between hypotheses, execution of experiments using laboratory automation equipment, and analysis of results. The motivation for developing Robot Scientists is to better understand science, and to make scientific research more efficient.  The Robot Scientist ‘Adam’ was the first machine to autonomously discover scientific knowledge: both form and experimentally confirm novel hypotheses.  Adam worked in the domain of yeast functional genomics.  The Robot Scientist ‘Eve’ was originally developed to automate early-stage drug development, with specific application to neglected tropical disease such as malaria, African sleeping sickness, etc.  We are now adapting Eve to work with on cancer.  We are also teaching Eve to autonomously extract information from the scientific literature."
+  bio: "Ross D. King is Professor of Machine Intelligence at the University of Manchester, UK.   His main research interests are in the interface between computer science and biology/chemistry. He has published 140 peer-reviewed publications and has an H index of 55 (Google Scholar). He is the only computer scientist with first author papers in both <i>Nature</i> and <i>Science</i>, and one of few PIs in a Computer Science Department anywhere in the world with a ‘wet lab’. His research won the British Computer Society, Machine Intelligence Prize, 2007; He was nominated for the World Technology Award (software) in 2004 and 2006; and his research was named the 4th most significant scientific advance of 2009 by <i>Time</i> magazine. He is also very interested in DNA computing, NP problems, computational economics, and computational aesthetics."
 
-- title: Name
-  name: Name-3
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- title: Dr Vishal Sanchania
+  name: VishalSanchania
+  subtitle: Synthace Limited
+  img: VishalSanchania.jpg
+  thumbnail: VishalSanchania.jpg
+  alt: Picture of Dr Vishal Sanchania
+  talktitle: Antha, enabling The complex biological design, build and test cycle using computer aided biology
+  abstract:
+  bio:
 
-- title: Name
-  name: Name-3
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- title: Dr Rachael Ainsworth
+  name: RachaelAinsworth
+  subtitle: University of Manchester
+  img: RachaelAinsworth.jpg
+  thumbnail: RachaelAinsworth.jpg
+  alt: Picture of Dr Rachael Ainsworth
+  talktitle: Reproducibility and Open Science
+  abstract: "Making research results more accessible and reproducible can contribute to better and more efficient science, however widespread adoption of open research practices has not yet been achieved. Funding agencies (such as the European Commission Horizon 2020) are increasingly requiring research products (such as data and publications) to be made openly available in order to make results more accessible, transparent and reproducible. Recent studies have also shown that open research practices are associated with benefits to the researcher such as increases in citations, media attention, potential collaborators, job and funding opportunities. In this talk I will discuss the different aspects of Open Science, the barriers we face to practicing openly, how to 'open' up your research workflow using open and transparent data and software services in order to reap the benefits associated with open research practices, and highlight current open projects in STEM."
+  bio: "Dr. Rachael Ainsworth is a Research Associate and Open Science Champion at the University of Manchester. She observes jets from young stars with next-generation radio telescopes to investigate the physical processes that assemble stars like our Sun. She is a Mozilla Open Leader, fuelling the Internet health movement through training and mentorship of working open best practices. She organises HER+Data MCR, a meetup group that brings together women who work with and love data - to support one another, inspire each other, share experiences and talk data. She is interested in promoting openness, inclusivity and well-being in science and technology."
 
-- title: Name
-  name: Name-3
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
-
-#- title: Dr Emma Chapman
-#  name: EmmaChapman
-#  subtitle: Royal Astronomical Society Fellow, Imperial College London
-#  img: EmmaChapman.jpg
-#  thumbnail: EmmaChapman.jpg
-#  alt: Picture of Dr Emma Chapman
-#  topic: "How to Make a Fuss: achieving solutions efficiently"
-#  description: "Dr Emma Chapman is a Royal Astronomical Society Research Fellow based at Imperial College London where her research centres on the first stars. Emma is a member of The 1752 Group, a research organisation lobbying to end staff-student sexual misconduct in higher education and regularly works with sector bodies, institutions, the press and legal services to ensure the safeguarding of students is taken seriously."
+# - title: Dr Kirstie Whitaker
+#   name: KirstieWhitaker
+#   subtitle: Alan Turing Institute
+#   img: KirstieWhitaker_Square.jpg
+#   thumbnail: KirstieWhitaker_Square.jpg
+#   alt: Picture of Dr Kirstie Whitaker
+#   talktitle: Facilitator for <i>From Theory to Practice</i> session
+#   abstract:
+#   bio: Neuroscientist interested in adolescent brain development and Open Science advocate.
