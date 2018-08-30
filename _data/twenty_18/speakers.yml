@@ -63,6 +63,17 @@
   abstract: "Making research results more accessible and reproducible can contribute to better and more efficient science, however widespread adoption of open research practices has not yet been achieved. Funding agencies (such as the European Commission Horizon 2020) are increasingly requiring research products (such as data and publications) to be made openly available in order to make results more accessible, transparent and reproducible. Recent studies have also shown that open research practices are associated with benefits to the researcher such as increases in citations, media attention, potential collaborators, job and funding opportunities. In this talk I will discuss the different aspects of Open Science, the barriers we face to practicing openly, how to 'open' up your research workflow using open and transparent data and software services in order to reap the benefits associated with open research practices, and highlight current open projects in STEM."
   bio: "Dr. Rachael Ainsworth is a Research Associate and Open Science Champion at the University of Manchester. She observes jets from young stars with next-generation radio telescopes to investigate the physical processes that assemble stars like our Sun. She is a Mozilla Open Leader, fuelling the Internet health movement through training and mentorship of working open best practices. She organises HER+Data MCR, a meetup group that brings together women who work with and love data - to support one another, inspire each other, share experiences and talk data. She is interested in promoting openness, inclusivity and well-being in science and technology."
 
+- title: Dr Sarah Abel
+  name: SarahAbel
+  subtitle: University of Iceland
+  img: SarahAbel.jpg
+  thumbnail: SarahAbel.jpg
+  alt: Picture of Dr Sarah Abel
+  talktitle: Expert discussant for Theory into Practice session
+  abstract: 
+  bio: "Sarah Abel is a fellow of the CitiGen project, funded by HERA, and a post-doc in anthropology at the University of Iceland, where she is researching social uses of DNA in the context of personal and population histories. Her PhD thesis, defended in 2016 at the EHESS in Paris, looked at the scientific construction and political uses of genetic ancestry data in the USA and Brazil. Her dissertation was developed through the EUROTAST network, a Marie Skłodowska-Curie Actions project that focused on the history and contemporary legacies of the transatlantic slave trade. Prior to this, Sarah completed an MPhil in Latin American Studies and a BA in Modern Languages at the University of Cambridge."
+
+
 # - title: Dr Kirstie Whitaker
 #   name: KirstieWhitaker
 #   subtitle: Alan Turing Institute
