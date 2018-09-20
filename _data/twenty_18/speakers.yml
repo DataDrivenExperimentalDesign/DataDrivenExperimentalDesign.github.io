@@ -53,6 +53,15 @@
   abstract:
   bio:
 
+- title: Dr Sebastien Besson
+  name: SebastienBesson
+  subtitle: University of Dundee
+  img: SebastienBesson.jpg
+  thumbnail: SebastienBesson.jpg
+  talktitle: "The Image Data Resource: a platform for publishing, integrating and mining biological imaging data at scale"
+  abstract:
+  bio: Sebastien Besson joined the The Open Microscopy Environment (OME) team as a developer in March 2012. Originally trained as a physicist, he received his PhD from the Unversite Pierre at Marie Curie in Paris. He then carried out postdoctoral research at the interface between physics and biology at Harvard University. In 2011, Sebastien joined the Danuser lab to convert in-house image analysis into turn-key software packages for the cell biology community. He became part of the main Dundee OME team in 2015.
+
 - title: Dr Rachael Ainsworth
   name: RachaelAinsworth
   subtitle: University of Manchester
@@ -70,7 +79,7 @@
   thumbnail: SarahAbel.jpg
   alt: Picture of Dr Sarah Abel
   talktitle: Expert discussant for Theory into Practice session
-  abstract: 
+  abstract:
   bio: "Sarah Abel is a fellow of the CitiGen project, funded by HERA, and a post-doc in anthropology at the University of Iceland, where she is researching social uses of DNA in the context of personal and population histories. Her PhD thesis, defended in 2016 at the EHESS in Paris, looked at the scientific construction and political uses of genetic ancestry data in the USA and Brazil. Her dissertation was developed through the EUROTAST network, a Marie Skłodowska-Curie Actions project that focused on the history and contemporary legacies of the transatlantic slave trade. Prior to this, Sarah completed an MPhil in Latin American Studies and a BA in Modern Languages at the University of Cambridge."
 
 
