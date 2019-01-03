@@ -13,12 +13,12 @@
 # abstract: Abstract
 # bio: Short bio
 
-- title: Dr Stephanie Biedermann
-  name: StephanieBiedermann
+- title: Dr Stefanie Biedermann
+  name: StefanieBiedermann
   subtitle: University of Southampton
-  img: StephenieBiedermann.jpg
-  thumbnail: StephenieBiedermann.jpg
-  alt: Picture of Dr Stephanie Biedermann
+  img: StefanieBiedermann.jpg
+  thumbnail: StefanieBiedermann.jpg
+  alt: Picture of Dr Stefanie Biedermann
   talktitle: Optimal designs for experiments – why, how, and where are the bottlenecks?
   abstract:
   bio:
